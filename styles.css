@@ -10,3 +10,11 @@ color: khaki;
 background-color: peru;
 height:2px;border-width:0;
 }
+
+p {
+    font-size: x-large;
+}
+
+ul {
+    font-size: larger;
+}
